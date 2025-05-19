@@ -1,7 +1,6 @@
 # 🌾 AI-Driven Crop Disease Prediction and Management System
 
-![Crop Disease System Screenshot](images/dashboard-screenshot.png)
-
+![Image](https://github.com/user-attachments/assets/7dbf5626-f46e-4c63-8c1e-af0ceed6cffb)
 ## 🚀 Overview
 
 The **AI-Driven Crop Disease Prediction and Management System** is a web-based solution designed to empower farmers with real-time, AI-powered crop disease detection and management tools. Leveraging advanced machine learning models, intuitive UX design, and integration with IoT and weather data, the system offers a seamless experience that helps reduce crop losses and improve yields.
@@ -25,9 +24,8 @@ The **AI-Driven Crop Disease Prediction and Management System** is a web-based s
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML5, CSS3, JavaScript, React.js / Vue.js  
-- **Backend**: Python (Flask / Django), Node.js  
+- **Frontend**: HTML5, CSS3, JavaScript, 
+- **Backend**: Python (Flask / Django),
 - **Machine Learning**: Scikit-learn, TensorFlow, OpenCV  
-- **IoT Integration**: MQTT, REST APIs  
 - **Data Sources**: Satellite Imagery, Weather APIs, On-field Sensors  
-- **Database**: PostgreSQL / MongoDB
+- **Database**: MySQL / MongoDB
